@@ -1,0 +1,6 @@
+# calculator extension
+comment = 'basic calculator'
+default_version = '0.0.1'
+module_pathname = '$libdir/calculator'
+relocatable = true
+trusted = true
